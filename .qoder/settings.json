@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "ask": [
+      "Read(!C:\\Users\\vinay\\OneDrive\\Desktop\\Code\\Projects\\COMPLETE-BLOGGING-APPLICATION/**)",
+      "Edit(!C:\\Users\\vinay\\OneDrive\\Desktop\\Code\\Projects\\COMPLETE-BLOGGING-APPLICATION/**)"
+    ],
+    "allow": [
+      "Read(C:\\Users\\vinay\\OneDrive\\Desktop\\Code\\Projects\\COMPLETE-BLOGGING-APPLICATION/**)",
+      "Edit(C:\\Users\\vinay\\OneDrive\\Desktop\\Code\\Projects\\COMPLETE-BLOGGING-APPLICATION/**)"
+    ]
+  },
+  "memoryImport": {},
+  "monitoring": {}
+}
